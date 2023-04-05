@@ -1,0 +1,1 @@
+# Classification-of-Individuals-into-Income-Gropus-using-Naive-Bayes-Classifier
